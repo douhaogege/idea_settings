@@ -1,0 +1,3 @@
+<templateSet group="zyh">
+  <template name="comment" value="/**&#10; * $desc&#10; * Created by ${USER} on $!{DATE}.&#10; */&#10;" description="文件注释" toReformat="false" toShortenFQNames="true" />
+</templateSet>
